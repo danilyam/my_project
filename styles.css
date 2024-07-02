@@ -29,6 +29,7 @@ header {
 nav a{
     padding: 0.5rem;
     font-weight: 700;
+
 }
 
 .uppercase {
@@ -53,4 +54,14 @@ nav a{
 
 .tx-white:hover {
     color: white;
+}
+
+.logo-container{
+    position: absolute;
+    margin-top: -1.2rem;
+    margin-left: 15rem;
+}
+
+.logo-img{
+    width: 6rem;
 }

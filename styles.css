@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', serif;
+}
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.gap-3 {
+    gap: 1.5rem;
+}
+
+.move-left {
+    margin-left: auto;
+}
+
+header {
+    padding-right: 20rem;
+    margin-top: 2.5rem;
+}
+
+nav a{
+    padding: 0.5rem;
+    font-weight: 700;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.none-text-decoration {
+    text-decoration: none;
+}
+
+.color-black {
+    color: black;
+}
+
+.bg-black:hover {
+    background-color: black;
+}
+
+.tx-white:hover {
+    color: white;
+}
